@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218850462666",
+    "firebase_url": "https://ifood-d3428.firebaseio.com",
+    "project_id": "ifood-d3428",
+    "storage_bucket": "ifood-d3428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218850462666:android:fa8009640cb6098a",
+        "android_client_info": {
+          "package_name": "com.example.ifood.ifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218850462666-17icc7n0sqtglj77v73hj6315upoglpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ifood.ifood",
+            "certificate_hash": "82f84ed4392058ee62de53ce4a822fd32f7eb9d7"
+          }
+        },
+        {
+          "client_id": "218850462666-eni34dr3iqd7s4u6r0mqmdp3sti7eu0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEk0NQJc7VKxKeVhxql5NX8DiilFsB8lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218850462666-eni34dr3iqd7s4u6r0mqmdp3sti7eu0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
